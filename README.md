@@ -130,8 +130,8 @@ falabella-retail-analytics-powerbi/
 ├── dax/
 │   └── measures.md
 │
-├── data/
-│   └── (source files or SQL scripts)
+├── modelo/
+│   └── modelo.png
 │
 └── README.md
 ```
